@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-01-28T21:15:12" hostname="ARANHID-NOUT" time="0.839">
+  <properties/>
+  <testcase name="check_digits_true()" classname="Tests" time="0.066"/>
+  <testcase name="check_length_true()" classname="Tests" time="0.013"/>
+  <testcase name="check_dict_false()" classname="Tests" time="0.432"/>
+  <testcase name="check_case_true()" classname="Tests" time="0.008"/>
+  <testcase name="check_entropy_false()" classname="Tests" time="0.014"/>
+  <testcase name="check_special_characters_true()" classname="Tests" time="0.005"/>
+  <testcase name="check_digits_false()" classname="Tests" time="0.005"/>
+  <testcase name="check_entropy_true()" classname="Tests" time="0.004"/>
+  <testcase name="check_dict_true()" classname="Tests" time="0.233"/>
+  <testcase name="check_length_false()" classname="Tests" time="0.001"/>
+  <testcase name="check_special_characters_false()" classname="Tests" time="0.001"/>
+  <testcase name="check_case_false()" classname="Tests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
